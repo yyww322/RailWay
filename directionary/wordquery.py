@@ -6,6 +6,7 @@ import sys
 import pickle
 import re
 
+
 def main(argv):
     if len(argv) < 1:
         print("Input Error! usage: python wordquery.py inputwords.txt")
@@ -41,7 +42,6 @@ def main(argv):
         f.close()
     except:
         print("An Error Ocuuered:", sys.exc_info()[0])
-
 
     return 0
 
