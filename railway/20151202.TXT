@@ -1,0 +1,15 @@
+Temp: 20.0
+AirPressure: 1013.25
+Station: BEIJINGXI
+Platform: 1
+RailNum: 2
+Date: 20151202
+Department: JIANDING
+Name: WANGQIANG
+RailType: 70
+BiasX: 0.000
+BiasY: 0.000
+BiasZ: 0.000
+rail:        1   0.000   0.000   0.000   0.000   0.000   0.000
+rail:        2   0.000   0.000   0.000   0.000   0.000   0.000
+rail:        3   0.000   0.000   0.000   0.000   0.000   0.000
