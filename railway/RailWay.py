@@ -9,6 +9,7 @@ from mainWindow import *
 
 
 def  main():
+    global sys_data
     window = MainWindow()
     window.show()
 

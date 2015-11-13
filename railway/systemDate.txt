@@ -1,0 +1,8 @@
+OPEN_FILE: D:/Python33/myWork/NoteBook/RailWay/q2-1-2.py
+MODEL_FILE: D:/Python33/myWork/NoteBook/RailWay/railway/20151202.TXT
+CURVE_FILE: D:/Python33/myWork/NoteBook/RailWay/railway/20151202.TXT
+H_LIMIT: 10.0
+V_LIMIT: 10.0
+POS_X: 100
+POS_Y: 100
+RAIL_TYPE: 75
