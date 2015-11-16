@@ -1,8 +1,11 @@
-OPEN_FILE: D:/Python33/myWork/NoteBook/RailWay/q2-1-2.py
-MODEL_FILE: D:/Python33/myWork/NoteBook/RailWay/railway/20151202.TXT
-CURVE_FILE: D:/Python33/myWork/NoteBook/RailWay/railway/20151202.TXT
-H_LIMIT: 10.0
-V_LIMIT: 10.0
+OPEN_FILE: E:/1/Python33/mywork/RailWay/RailWay/railway/20151202.TXT
+MODEL_FILE: E:/1/Python33/mywork/RailWay/RailWay/railway/站台雨棚限界测量.xls
+CURVE_FILE: 
+H_LIMIT: 1.0
+V_LIMIT: 2.0
 POS_X: 100
 POS_Y: 100
-RAIL_TYPE: 75
+RAIL_TYPE: 43
+ROOF_H: 3.0
+ROOF_V: 4.0
+PILLAR_H: 5.0
